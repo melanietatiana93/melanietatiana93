@@ -26,7 +26,7 @@ width="800"/>
 
 Apasionada de la tecnología, las relaciones internacionales y el análisis de datos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
    
-* 🔭 Actualmente estoy trabajando en una empresa de consultoría, asesorando a distintos clientes y empresas :muscle:  
+* 🔭 Actualmente estoy trabajando en una empresa de consultoría, asesorando a distintos clientes y empresas 🌎
 
 * 🌱 Soy Licenciada en Relaciones Internacionales, Magister en Relaciones Comerciales Internacionales, y especialista en Business Intelligence :blue_book:
 
