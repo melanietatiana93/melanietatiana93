@@ -35,6 +35,22 @@ Apasionada de la tecnología, las relaciones internacionales y el análisis de d
 * 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Melanie-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/melanie-michailoff-22922a182/?locale=en_US)
    
 
+ <div id="header" align="left">
+
+### :woman_technologist: About me :
+
+
+Apasionada de la tecnología, las relaciones internacionales y el análisis de datos 🌎
+   
+* 🔭 Actualmente estoy trabajando en una empresa de consultoría, asesorando a distintos clientes y empresas 
+
+* 🌱 Soy Licenciada en Relaciones Internacionales, Magister en Relaciones Comerciales Internacionales, y especialista en Business Intelligence :blue_book:
+
+* ❤️ Me encanta descubrir nuevas herramientas y habilidades para potenciar mi trabajo. 
+
+* 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Melanie-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/melanie-michailoff-22922a182/?locale=en_US)
+   
+
 
 ---
    
