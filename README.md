@@ -14,7 +14,7 @@ width="800"/>
   <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=noelianav91.noelianav91&color=00cf00" alt=""/>
    
    <h1>
-  Hola soy Melanie. ¡Bienvenido a mi sitio! 
+  Hi I'm Melanie. ¡Welcome! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -40,7 +40,7 @@ Passionate about technology, international relations, and data analysis 🌎
 
 ---
    
- ### :hammer_and_wrench: Language and Tools :
+ ### :hammer_and_wrench: Languages and Tools :
 <div id="header" align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
