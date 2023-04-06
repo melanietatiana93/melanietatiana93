@@ -32,7 +32,7 @@ Apasionada de la tecnología, las relaciones internacionales y el análisis de d
 
 * ❤️ Me encanta descubrir nuevas herramientas y habilidades para potenciar mi trabajo. 
 
-* 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/melanie-michailoff-22922a182/?locale=en_US)/)
+* 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Melanie-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/melanie-michailoff-22922a182/?locale=en_US)/)
    
 
 
