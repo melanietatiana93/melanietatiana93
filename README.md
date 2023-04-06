@@ -48,6 +48,8 @@ Apasionada de la tecnología, las relaciones internacionales y el análisis de d
   </a>
  <img src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau"/>
+  </a>
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="confluence"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
@@ -56,6 +58,13 @@ Apasionada de la tecnología, las relaciones internacionales y el análisis de d
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="visual-studio"/>
   <img src="https://img.shields.io/badge/Google_Trends-4285F4?style=for-the-badge&logo=google-trends&logoColor=white" alt="google-trends"/>
   <img src="https://img.shields.io/badge/Market_Finder-0F9D58?style=for-the-badge&logo=google&logoColor=white" alt="market-finder"/>
-
+<img src="https://img.shields.io/badge/Kanvan-008800?style=for-the-badge&logo=kanban&logoColor=white" alt="kanvan"/>
+  </a>
+  <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="microsoft teams"/>
+  </a>
+  <img src="https://img.shields.io/badge/Draw_io-F08705?style=for-the-badge&logo=drawio&logoColor=white" alt="draw io"/>
+  </a>
+   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="canva"/>
+  </a>
 </div>
   
