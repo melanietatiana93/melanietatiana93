@@ -48,6 +48,7 @@ Apasionada de la tecnología, las relaciones internacionales y el análisis de d
   </a>
  <img src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
-  
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="confluence"/>
+
 </div>
   
