@@ -14,7 +14,7 @@ width="800"/>
   <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=noelianav91.noelianav91&color=00cf00" alt=""/>
    
    <h1>
-  Hi I'm Melanie. ¡Welcome! 
+  Hi, I'm Melanie. Welcome! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
