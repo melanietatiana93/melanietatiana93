@@ -40,7 +40,7 @@ Passionate about technology, international relations, and data analysis 🌎
 
 ---
    
- ### :hammer_and_wrench: Lenguajes y herramientas :
+ ### :hammer_and_wrench: Language and Tools :
 <div id="header" align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
