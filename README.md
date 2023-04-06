@@ -24,15 +24,15 @@ width="800"/>
 ### :woman_technologist: Sobre mí :
 
 
-Apasionada de la tecnología y especialista en Business Intelligence <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Apasionada de la tecnología, las relaciones internacionales y el análisis de datos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
    
-* 🔭 Actualmente estoy trabajando en el departamento de compras de una empresa retail de alimentación pero necesito nuevos retos :muscle:  
+* 🔭 Actualmente estoy trabajando en una empresa de consultoría, asesorando a distintos clientes y empresas :muscle:  
 
-* 🌱 Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft. 
+* 🌱 Soy Licenciada en Relaciones Internacionales, Magister en Relaciones Comerciales Internacionales, y especialista en Business Intelligence :blue_book:
 
-* ❤️ Me encanta descubrir nuevas formas de automatizar mi trabajo 
+* ❤️ Me encanta descubrir nuevas herramientas y habilidades para potenciar mi trabajo. 
 
-* 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
+* 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/melanie-michailoff-22922a182/?locale=en_US)/)
    
 
 
