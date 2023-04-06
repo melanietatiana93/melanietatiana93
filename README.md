@@ -19,36 +19,22 @@ width="800"/>
 </h1>
 
 ---
- <div id="header" align="left">
-
-### :woman_technologist: Sobre mí :
-
-
-Apasionada de la tecnología, las relaciones internacionales y el análisis de datos 🌎
-   
-* 🔭 Actualmente estoy trabajando en una empresa de consultoría, asesorando a distintos clientes y empresas 
-
-* 🌱 Soy Licenciada en Relaciones Internacionales, Magister en Relaciones Comerciales Internacionales, y especialista en Business Intelligence :blue_book:
-
-* ❤️ Me encanta descubrir nuevas herramientas y habilidades para potenciar mi trabajo. 
-
-* 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Melanie-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/melanie-michailoff-22922a182/?locale=en_US)
-   
+ 
 
  <div id="header" align="left">
 
 ### :woman_technologist: About me :
 
 
-Apasionada de la tecnología, las relaciones internacionales y el análisis de datos 🌎
+Passionate about technology, international relations, and data analysis 🌎
    
-* 🔭 Actualmente estoy trabajando en una empresa de consultoría, asesorando a distintos clientes y empresas 
+* 🔭 I am currently working in a consulting company, advising different clients and businesses
 
-* 🌱 Soy Licenciada en Relaciones Internacionales, Magister en Relaciones Comerciales Internacionales, y especialista en Business Intelligence :blue_book:
+* 🌱  I have a Bachelor's degree in International Relations, a Master's degree in International Trade Relations, and specialized in Business Intelligence :blue_book:
 
-* ❤️ Me encanta descubrir nuevas herramientas y habilidades para potenciar mi trabajo. 
+* ❤️  I love discovering new tools and skills to enhance my work.
 
-* 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Melanie-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/melanie-michailoff-22922a182/?locale=en_US)
+* 📫 Want to get in touch with me?  [![Linkedin Badge](https://img.shields.io/badge/-Melanie-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/melanie-michailoff-22922a182/?locale=en_US)
    
 
 
