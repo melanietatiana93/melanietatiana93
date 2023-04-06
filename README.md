@@ -24,9 +24,9 @@ width="800"/>
 ### :woman_technologist: Sobre mí :
 
 
-Apasionada de la tecnología, las relaciones internacionales y el análisis de datos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Apasionada de la tecnología, las relaciones internacionales y el análisis de datos 🌎
    
-* 🔭 Actualmente estoy trabajando en una empresa de consultoría, asesorando a distintos clientes y empresas 🌎
+* 🔭 Actualmente estoy trabajando en una empresa de consultoría, asesorando a distintos clientes y empresas 
 
 * 🌱 Soy Licenciada en Relaciones Internacionales, Magister en Relaciones Comerciales Internacionales, y especialista en Business Intelligence :blue_book:
 
