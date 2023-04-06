@@ -54,6 +54,8 @@ Apasionada de la tecnología, las relaciones internacionales y el análisis de d
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="visual-studio"/>
+  <img src="https://img.shields.io/badge/Google_Trends-4285F4?style=for-the-badge&logo=google-trends&logoColor=white" alt="google-trends"/>
+  <img src="https://img.shields.io/badge/Market_Finder-0F9D58?style=for-the-badge&logo=google&logoColor=white" alt="market-finder"/>
 
 </div>
   
