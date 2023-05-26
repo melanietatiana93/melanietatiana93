@@ -61,6 +61,7 @@ Passionate about technology, international relations, and data analysis 🌎
   <img src="https://img.shields.io/badge/Google_Trends-4285F4?style=for-the-badge&logo=google-trends&logoColor=white" alt="google-trends"/>
   <img src="https://img.shields.io/badge/Market_Finder-0F9D58?style=for-the-badge&logo=google&logoColor=white" alt="market-finder"/>
 <img src="https://img.shields.io/badge/Kanvan-008800?style=for-the-badge&logo=kanban&logoColor=white" alt="kanvan"/>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode"/>
   </a>
   <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="microsoft teams"/>
   </a>
