@@ -73,7 +73,8 @@ Passionate about technology, international relations, and data analysis 🌎
   </a>
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
   </a>
-
+  <img src="https://img.shields.io/badge/Control%2DM-F36C20?style=for-the-badge&logo=control-m&logoColor=white" alt="control-m"/>
+  </a>
 
 </div>
   
