@@ -50,6 +50,7 @@ Passionate about technology, international relations, and data analysis 🌎
   </a>
  <img src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
+  <img src="https://img.shields.io/badge/Power%20Automate-6431A4?style=for-the-badge&logo=power-automate&logoColor=white" alt="power-automate"/>
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau"/>
   </a>
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="confluence"/>
