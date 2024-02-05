@@ -28,7 +28,6 @@ width="800"/>
 
 Passionate about technology, international relations, and data analysis 🌎
    
-* 🔭 I am currently working in a consulting company, advising different clients and businesses
 
 * 🌱  I have a Bachelor's degree in International Relations, a Master's degree in International Trade Relations, and specialized in Business Intelligence :blue_book:
 
